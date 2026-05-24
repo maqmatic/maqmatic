@@ -1,7 +1,6 @@
 ## Hi there!
 
-Never stop learning.
-
+Anti-Vibe Coding.
 <!--
 **maqnitude/maqnitude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
